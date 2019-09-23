@@ -86,6 +86,7 @@ debe cumplir.
 
 ## Otro ejemplo
 ![](.README_images/ejemplo2.png) 
+
 Aquí tenemos primero una clase Imprime
 que imprime un mensaje. 
 ```
