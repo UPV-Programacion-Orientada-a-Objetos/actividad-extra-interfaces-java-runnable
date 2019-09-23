@@ -85,7 +85,8 @@ normalmente se implementan más métodos para crear un hilo que este hilo
 debe cumplir.
 
 ## Otro ejemplo
-![](.README_images/ejemplo2.png) Aquí tenemos primero una clase Imprime
+![](.README_images/ejemplo2.png) 
+Aquí tenemos primero una clase Imprime
 que imprime un mensaje. 
 ```
 public class Imprime {
