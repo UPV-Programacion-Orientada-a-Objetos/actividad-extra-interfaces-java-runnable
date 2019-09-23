@@ -115,7 +115,7 @@ public class Main {
 }
 ```
 
-[Codigo fuente](src)
+[Codigo fuente](main/src)
 
 >Implementa `Runnable` si quieres hacer que una clase tenga la
 >propiedas de un hilo, sin la necesidad de heredar de clase `Thread`
